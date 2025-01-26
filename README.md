@@ -13,7 +13,7 @@ This project is a **Dropout Prediction System** that analyzes student data and p
 - **Backend:** Node.js, Express.js
 - **Machine Learning:** Python, Scikit-learn, Joblib
 - **Database:** MongoDB
-- **Frontend (if applicable):** [Add details if you have a frontend]
+- **Frontend:**React.js
 - **Others:** Git, GitHub, JSON communication between Node.js and Python
 
 ---
