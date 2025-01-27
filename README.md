@@ -171,16 +171,7 @@ yaml
 Copy
 Edit
 
----
 
-### Steps to Add This README to Your Project:
-1. Create a `README.md` file in the root of your project.
-2. Paste the above content into the file.
-3. Commit and push the file:
-   ```bash
-   git add README.md
-   git commit -m "Add project README"
-   git push origin main
 
 
 
